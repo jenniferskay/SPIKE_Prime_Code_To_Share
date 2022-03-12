@@ -2,6 +2,23 @@ from spike import PrimeHub, LightMatrix, Button, StatusLight, ForceSensor, Motio
 from spike.control import wait_for_seconds, wait_until, Timer
 from math import *
 
+"""
+Title: search_and_approach.py
+Author: Jennifer S. Kay kay@rowan.edu
+Version: 2022-03-12
+
+Note - this code is incomplete. It is a start for the search_and_approach
+code in Section 4.3 of Elements of Robotics 
+by Mordechai Ben-Ari & Francesco Mondada
+Free download at: 
+https://link.springer.com/book/10.1007/978-3-319-62533-1
+
+Permission given to copy and USE this code.
+You may NOT post your solutions to the full assignment 
+    anywhere that is publicly accessible to others.
+
+"""
+
 print ("Hello I'm here!")
 
 class State():
