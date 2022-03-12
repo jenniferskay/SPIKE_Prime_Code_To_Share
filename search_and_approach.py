@@ -5,6 +5,7 @@ from math import *
 """
 Title: search_and_approach.py
 Author: Jennifer S. Kay kay@rowan.edu
+(Thanks to Nick Bovee for debugging help!!)
 Version: 2022-03-12
 
 Note - this code is incomplete. It is a start for the search_and_approach
